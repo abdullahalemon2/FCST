@@ -14,7 +14,7 @@ For 7 digit
  
 For 8 digit
 
-* `python2 8.py`
+* `python2 emon.py`
 
 ## User and pass
 * Only for 🔰♻️ FENI CYBER SECURITY TEAM🔰♻️
